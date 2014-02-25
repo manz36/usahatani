@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Carousel for Osclass\n"
+"Language: da\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: JChapman <siouxfallsrummages@gmail.com>\n"
+"Language-Team: \n"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:28
+msgid "Carousel for Osclass Help"
+msgstr "Lidt lyn hjælp til Carousel for OSClass"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:31
+msgid "What is Carousel for Osclass Plugin?"
+msgstr "Hvad er Carousel plugin for Osclass ?"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:34
+msgid "Carousel for Osclass is an easy to use plugin to display the latest ads submitted on your Osclass Installation. Your visitors will get a very quick overview of the ads on your site."
+msgstr "Carousel til OSClass fremviser annoncer i slides (<em>f.eks. på forsiden</em>)<br />Plugin preferencer kan administreres og indstilles af OSClass Webmosteren."
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:37
+msgid "How does Carousel for Osclass plugin work?"
+msgstr "Hvordan får du Carousel plugin til at virke i OSClass"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:40
+msgid "In order to use Carousel for Osclass plugin, you should edit your theme file <b>main.php</b> and add the following line anywhere in the code you want the carousel to display."
+msgstr "Hvis du <em>f.eks.</em> arbejder med OSClass tema moderne . . . ?<br />kopierer og paster du nedenstående PHP kode ind i filen inc.search.php under den sidste < / FORM ><br />Filen <strong>inc.search.php</strong> finder du her..: http://www.yourdomain.com/oc-content/themes/modern/inc.search.php"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:46
+msgid "Could I cutomize the style of Carousel for Osclass plugin?"
+msgstr "Kan jeg customisere style og layout i plugin Carousel til OSClass ?"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:49
+msgid "You can configure the layout under configure Display."
+msgstr "Du kan selv indstille mange Basis og Visnings parametre"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:52
+msgid "The plugin is compatible with Osclass version 2.1 and up."
+msgstr "Dette plugin er minimum kompatibelt med OSClass version 2.1"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/help.php:55
+msgid "Created by Sultan Semlali and JChapman using Jquery."
+msgstr "Master kode er skrevet af.: Sultan Semlali & JChapman vha.: Jquery."
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/search_carousel_detail.php:19
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/carousel_detail.php:73
+msgid "Premium Ad"
+msgstr "Premium Annonce"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/update.php:7
+msgid "The Carousel is up to date"
+msgstr "Carousel plugin er up to date"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/update.php:41
+msgid "Carousel Updated to version"
+msgstr "Carousel opdateret til version.: "
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:85
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:68
+msgid "Settings Saved"
+msgstr "Indstillinger er gemt"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:98
+msgid "Carousel for Osclass Display Preferences"
+msgstr "Visnings indstillinger for Carousel til OSClass"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:100
+msgid "Number of items to display at one time"
+msgstr "Antal billeder som vises på en gang"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:113
+msgid "Display the carousel vertically"
+msgstr "Vis carousel lodret"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:115
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:85
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:96
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:102
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:108
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:115
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:122
+msgid "No"
+msgstr "Nej"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:116
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:86
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:97
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:103
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:109
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:116
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:123
+msgid "Yes"
+msgstr "Ja"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:121
+msgid "Width in pixel's (Default is 718) "
+msgstr "Bredde i pixels (Default er 718)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:124
+msgid "Height in pixel's (Default is 120) "
+msgstr "Højde i pixels (Default er 120)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:129
+msgid "Ad Slide Width in pixel's (Default is 140) "
+msgstr "Tilføj slider bredde i pixels (Default er 140)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:132
+msgid "Ad Slide Height in pixel's (Default is 110) "
+msgstr "Tilføj slider højde i pixels (Default er 110)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:136
+msgid "Background Color (Default is #E9F5F9) "
+msgstr "Baggrund farve (Default er #E9F5F9)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:139
+msgid "Hover Color (Default is #94CEE4) "
+msgstr "Hover farve (Default er #94CEE4) "
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:143
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:127
+msgid "Save"
+msgstr "* GEM *"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:150
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:132
+msgid "Click here to finish update"
+msgstr "Klik her for at færdiggøre opdatering"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:258
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:265
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:309
+msgid "Configure"
+msgstr "Basis konfig."
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:259
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:266
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:310
+msgid "Configure Display"
+msgstr "Visnings konfig."
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:260
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:267
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:311
+msgid "F.A.Q. / Help"
+msgstr "FAQ og lidt  hjælp"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/index.php:308
+msgid "Carousel for OSClass"
+msgstr "CAROUSEL"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/carousel_detail.php:129
+msgid "No items to display"
+msgstr "Endnu ingen slides og billeder at fremvise"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:81
+msgid "Carousel for Osclass Preferences"
+msgstr "Basis indstillinger for Carousel til OSClass"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:83
+msgid "Enable auto scrolling"
+msgstr "Automatisk slide scrolling ?"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:90
+msgid "Number of seconds to delay scrolling (Default is 2800) "
+msgstr "Scroll forsinkelse i sekunder. <br />(Default er 2800)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:94
+msgid "Display premium ads only"
+msgstr "Vis kun premium annoncer"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:100
+msgid "Display ads in a random order?"
+msgstr "Vis annoncer i tilfældig orden  ?"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:106
+msgid "Show ads with pictures only"
+msgstr "Vis kun annoncer med billeder"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:113
+msgid "Enable Price"
+msgstr "Vis pris"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:120
+msgid "Enable Arrows"
+msgstr "Vis pile"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/admin.php:130
+msgid "Version"
+msgstr "Version.: "
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:110
+msgid "Limit the number of items to load into the carousel (Default is 15) "
+msgstr "Begræns antal af billeder i carousel (std. er 15)"
+
+#: /var/www/osclass30/oc-content/plugins/carousel_for_osclass/displayAdmin.php:111
+msgid "(0 = no limit)"
+msgstr "(0 = ingen begrænsning)"
+
