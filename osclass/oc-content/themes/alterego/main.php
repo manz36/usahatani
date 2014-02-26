@@ -172,7 +172,14 @@ function drawSubcategory($category) {
                     			        <input type="hidden" name="sUser[]" value="<?php echo osc_esc_html($userId); ?>" />
                 					<?php } ?>
 									<div class="category-selector">
-		            			        <?php chosen_region_select('sRegion', null, __('Pilih Kota', 'alterego')) ; ?>
+		            			        <?php $aCities = City::newInstance()->listAll(); ?>
+                                        <?php if(count($aCities) > 0 ) { ?>
+                                            <select name="sCity" id="sCity">
+                                                <?php foreach($aCities as $city) { ?>
+                                                <option value="<?php echo $city['s_name'] ; ?>"><?php echo $city['s_name'] ; ?></option>
+                                                <?php } ?>
+                                            </select>
+                                        <?php } ?>
 									</div>
         							<input class="submit" type="submit" value="Go"></input>
 								</form>
